@@ -3,7 +3,7 @@
 NSAPH Software is a collection of open-source packages to carry out **N**ational **S**tudies on **A**ir **P**ollution and **H**ealth.
 
 <p align="center" width="100%">
-    <img width="60%" src="figures/png/NSAPH-software-main-image.png">
+    <img width="80%" src="figures/png/NSAPH-software-main-image.png">
 </p>
 
 <!--
